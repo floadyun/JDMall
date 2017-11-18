@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:1-134:12
+	package
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:3:5-35
+uses-sdk
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+		INJECTED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:19:22-63
+uses-feature#android.hardware.camera
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:23:19-67
+supports-screens
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:27:5-32:40
+	android:largeScreens
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:29:9-36
+	android:smallScreens
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:31:9-36
+	android:normalScreens
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:30:9-37
+	android:xlargeScreens
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:32:9-37
+	android:anyDensity
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:28:9-34
+application
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:34:5-132:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:38:9-41
+	android:icon
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:37:9-45
+	android:allowBackup
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:39:9-40
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:35:9-57
+activity#com.itau.jingdong.ui.SplashActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:40:9-50:20
+	android:label
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:42:13-45
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:43:13-44
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:44:13-47
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:41:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:48:27-74
+activity#com.itau.jingdong.ui.HomeActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:51:9-54:47
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:53:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:52:13-44
+activity#com.itau.jingdong.ui.MainActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:55:9-58:47
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:57:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:56:13-44
+activity#com.itau.jingdong.ui.IndexActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:59:9-62:47
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:61:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:60:13-45
+activity#com.itau.jingdong.ui.CategoryActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:63:9-66:47
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:65:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:66:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:64:13-48
+activity#com.itau.jingdong.ui.CartActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:67:9-70:47
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:69:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:68:13-44
+activity#com.itau.jingdong.ui.PersonalActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:71:9-74:47
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:73:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:72:13-48
+activity#com.itau.jingdong.ui.SearchActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:75:9-79:55
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:77:13-43
+	android:windowSoftInputMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:79:13-52
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:76:13-46
+activity#com.itau.jingdong.ui.LoginActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:81:13-45
+activity#com.itau.jingdong.ui.RegisterActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:84:9-88:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:86:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:85:13-48
+activity#com.itau.jingdong.ui.RegisterBormalActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:89:9-93:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:91:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:92:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:90:13-54
+activity#com.itau.jingdong.ui.MoreActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:94:9-98:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:96:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:97:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:95:13-44
+activity#com.itau.jingdong.ui.IndexShakeActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:99:9-103:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:101:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:100:13-50
+activity#com.itau.jingdong.ui.IndexClothingActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:104:9-108:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:106:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:107:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:105:13-53
+activity#com.itau.jingdong.ui.IndexDigtalActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:109:9-113:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:111:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:110:13-51
+activity#com.itau.jingdong.ui.IndexDaily
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:114:9-118:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:116:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:117:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:115:13-42
+activity#com.itau.jingdong.ui.IndexEbookActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:119:9-123:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:121:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:120:13-50
+activity#com.itau.jingdong.zxing.CaptureActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:124:9-128:20
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:126:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:127:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:125:13-50
+activity#com.itau.jingdong.zxing.CaptureResultActivity
+ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:129:9-131:56
+	android:launchMode
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:130:13-43
+	android:theme
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:131:13-44
+	android:name
+		ADDED from E:\space\android\demo\JDMall\app\src\main\AndroidManifest.xml:129:19-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\0ab74ae4163edf0259282212ea294d65\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0482fab928c28a724a99233f6a21eda9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\08a10ad64f628d8290f19b34da2d5439\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f4b8dc0a10957bd105ada45470d083\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8120fcf75fb68b2bb03ddc6e108c3eba\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4afc30a32f4d9d5e3a0c601c364f6139\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c61b7765e23ba3636ee72326e0c05697\AndroidManifest.xml:26:13-58
